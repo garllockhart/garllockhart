@@ -5,7 +5,7 @@ My name is Garly Nugraha, you can call me Garly or Garllockhart. I am a software
 
 ### Find me on 🌎:
 - Learning in public on <a href="https://www.garllllart.com">My Website</a>
-- Discuss with <a href="https://instagram.com/garllockhart">Instagram</a> and <a href="https://twitter.com/garllllart">Twitter</a>
+- Discuss with <a href="https://instagram.com/garllllart">Instagram</a> and <a href="https://twitter.com/garllllart">Twitter</a>
 
 <a href="https://github.com/garllockhart/garllockhart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garllllart&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
